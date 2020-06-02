@@ -1,0 +1,15 @@
+{
+    "short_name": "angular.io",
+    "name": "Audio Application",
+    "icons": [
+      {
+        "src": "../favicon.ico",
+        "sizes": "194x194 512x512",
+        "type": "image/ico"
+      }
+    ],
+    "start_url": "/?utm_source=homescreen",
+    "background_color": "#1976d2",
+    "theme_color": "#1976d2",
+    "display": "standalone"
+  }
